@@ -1,6 +1,6 @@
 # GitOps
 
-Infrastructure as Code (IaC), implemented via Git (including server/repository systems), also referred to as XaC, where X can represent Infrastructure, Security, Policy, Network, or Configuration, is utilized within a source code management platform to foster collaboration among individuals and teams, thereby enhancing the quality of infrastructure and application landscapes.
+Infrastructure as Code (IaC), implemented via Git (including server/repository systems), also referred to as XaC, where X represent Infrastructure, Security, Policy, Network or Configuration, is utilized within a source code management platform to foster collaboration among individuals and teams, thereby enhancing the quality of infrastructure and application landscapes.
     
 ## Set-Up (minimum requirements)
 
