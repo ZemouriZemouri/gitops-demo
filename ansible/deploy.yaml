@@ -1,0 +1,7 @@
+- name: Prepare Deployment
+  hosts: localhost
+  tasks:
+    - name: Generate Kubernetes Manifest
+      template:
+        src: templates/deployment.yaml.j2
+        dest: ./apps/gitops-demo/deployment.yaml
